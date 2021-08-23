@@ -1,0 +1,87 @@
+{
+    "success": true,
+    "data": {
+        "topicList": [{
+                "id": 1,
+                "title": "古代历史",
+                "imgUrl": "https://upload.jianshu.io/users/upload_avatars/6652326/21cbdf91-a930-45d2-ad61-4f91df1e9709.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp"
+            },
+            {
+                "id": 2,
+                "title": "茶点故事",
+                "imgUrl": "https://upload.jianshu.io/users/upload_avatars/4790772/388e473c-fe2f-40e0-9301-e357ae8f1b41.jpeg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp"
+            },
+            {
+                "id": 3,
+                "title": "古代历史",
+                "imgUrl": "https://upload.jianshu.io/users/upload_avatars/6652326/21cbdf91-a930-45d2-ad61-4f91df1e9709.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp"
+            },
+            {
+                "id": 4,
+                "title": "茶点故事",
+                "imgUrl": "https://upload.jianshu.io/users/upload_avatars/4790772/388e473c-fe2f-40e0-9301-e357ae8f1b41.jpeg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp"
+            }
+        ],
+        "articleList": [{
+                "id": 1,
+                "title": "读书｜我看《雪国》",
+                "imgUrl": "https://upload-images.jianshu.io/upload_images/21616815-1754c91036480d3f.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240",
+                "content": "《雪国》是日本作家川端康成的第一部中篇小说，也是他唯美主义代表之一，作者深受《源氏物语》的影响，1968年获得诺贝尔文学奖。《雪国》小说仅八万..."
+            },
+            {
+                "id": 2,
+                "title": "鲁迅：这三句“真话”，无论过了多少年，都足以概括这个世道",
+                "imgUrl": "https://upload-images.jianshu.io/upload_images/20760323-63f987babbf0f536.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240",
+                "content": "在中国社会里面，其实我们都对这个人很熟悉，那就是鲁迅。 鲁迅先生以说“真话”而闻名于世，受到无数人的景仰。曾有人评价他说，他这是用“笔”去战斗的..."
+            },
+            {
+                "id": 3,
+                "title": "产品经理逐渐在失业?",
+                "imgUrl": "https://upload-images.jianshu.io/upload_images/6313421-28f84de0d39c9725?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240",
+                "content": "如今的互联网已经形成了头部玩家的局面，甚至是已经出现一个铁律即：任何互联网中的新小企业走到后面迟早都会变成腾讯系、阿里系、头条系等 单靠一个创意..."
+            }
+        ],
+        "recommendList": [{
+                "id": 1,
+                "imgUrl": "https://cdn2.jianshu.io/assets/web/banner-s-daily-e6f6601abc495573ad37f2532468186f.png"
+            },
+            {
+                "id": 2,
+                "imgUrl": "https://cdn2.jianshu.io/assets/web/banner-s-club-aa8bdf19f8cf729a759da42e4a96f366.png"
+            },
+            {
+                "id": 3,
+                "imgUrl": "https://cdn2.jianshu.io/assets/web/banner-s-7-1a0222c91694a1f38e610be4bf9669be.png"
+            },
+            {
+                "id": 4,
+                "imgUrl": "https://cdn2.jianshu.io/assets/web/banner-s-5-4ba25cf5041931a0ed2062828b4064cb.png"
+            }
+        ],
+        "writerList": [{
+                "id": 1,
+                "imgUrl": "https://upload.jianshu.io/users/upload_avatars/6652326/21cbdf91-a930-45d2-ad61-4f91df1e9709.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp",
+                "title": "野狐狸",
+                "desc": "写了381.5k字 · 6.3k喜欢"
+            },
+            {
+                "id": 2,
+                "imgUrl": "https://upload.jianshu.io/users/upload_avatars/4790772/388e473c-fe2f-40e0-9301-e357ae8f1b41.jpeg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp",
+                "title": "茶点故事",
+                "desc": "写了743.4k字 · 15.4k喜欢"
+            },
+            {
+                "id": 3,
+                "imgUrl": "https://upload.jianshu.io/users/upload_avatars/301940/189d69dd-af7c-4290-9e2c-89e98acf3603.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp",
+                "title": "卢璐说",
+                "desc": "写了1962.2k字 · 34k喜欢"
+            },
+            {
+                "id": 4,
+                "imgUrl": "https://upload.jianshu.io/users/upload_avatars/2631077/dc99c361412c?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp",
+                "title": "木清琳",
+                "desc": "写了293.9k字 · 3.4k喜欢"
+            }
+        ]
+    }
+}
